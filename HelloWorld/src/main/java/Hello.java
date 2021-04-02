@@ -6,4 +6,7 @@ System.out.println("天天向上");
 
 
     }
+	
+	public static void main(String[] args){
+	}
 }
